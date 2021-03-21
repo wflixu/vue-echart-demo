@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h2>线图</h2>
     <v-chart class="chart" :option="option"></v-chart>
   </div>
 </template>
